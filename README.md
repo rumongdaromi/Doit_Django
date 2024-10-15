@@ -6,3 +6,8 @@ Do it! 점프 투 장고 책 실습을 위해 만들었습니다.
 
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/555c2d6f-a889-4ea1-9eda-1f538f825d69">
 
+
+
+DB Browser for SQLite 설치 설치링크 : sqlitebrowser.org/dl
+
+<img width="1033" alt="image" src="https://github.com/user-attachments/assets/cb247e2f-a02f-458a-a570-53a9e56a703a">
