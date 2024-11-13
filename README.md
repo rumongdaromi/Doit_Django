@@ -20,10 +20,10 @@ DB Browser for SQLite 설치 설치링크 : sqlitebrowser.org/dl
 <br>
 <br>
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/cb247e2f-a02f-458a-a570-53a9e56a703a">
-
-
+<br>
+<br>
 admin기능과 각종 orm기능 ( objects.filter 는 조회되는 여러개의 행을 가져옴, get은 하나의 행을 가져옴)
-
-
+<br>
+<br>
 <img width="968" alt="image" src="https://github.com/user-attachments/assets/4d30e4e9-a363-432d-b05d-5e649edb52ad">
 
